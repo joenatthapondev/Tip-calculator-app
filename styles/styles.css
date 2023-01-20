@@ -271,7 +271,7 @@ body {
     }
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1300px) {
     .card {
         width: 64%;
         -webkit-box-orient: horizontal;
@@ -298,11 +298,11 @@ body {
     }
 
     .card .input .btn-wrapper .btn {
-        width: 100%;
+        width: 30.5%;
     }
 
     .card .input .btn-wrapper .inp-text {
-        width: 100%;
+        width: 30.5%;
     }
 
     .card .output {
@@ -326,16 +326,6 @@ body {
 
     .card .output .line-wrapper .line-output .value {
         font-size: 4.6rem;
-    }
-}
-
-@media screen and (min-width: 1300px) {
-    .card .input .btn-wrapper .btn {
-        width: 30.5%;
-    }
-
-    .card .input .btn-wrapper .inp-text {
-        width: 30.5%;
     }
 }
 
